@@ -27,7 +27,7 @@ Add a shim to both ends, pull on the elastic so the shims stay in. Tension will 
 Add the 4mm spacer, then the first "ejector_outside". Make sure the indents on the rod stopper and the ejector are lined up.
 ![resized_20241114_150126](https://github.com/user-attachments/assets/dd4e99ac-9db2-4f9a-af56-fab8115b2f56)
 
-Add 10mm spacer, ejector middle, 10mm spacer, ejector top. Keep the indendts aligned.
+Add 10mm spacer, ejector middle, 10mm spacer, ejector outside. Keep the indendts aligned.
 ![resized_20241114_150235](https://github.com/user-attachments/assets/f42a42f8-a635-483d-9cf5-21118bcb7e94)
 
 Take the "rod_stopper_bottom" and push a piece of 12mm cut filament into one side (I recommend the flat side).
