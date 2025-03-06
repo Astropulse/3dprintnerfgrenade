@@ -86,6 +86,7 @@ I recommend rotating it two notches (180 degrees).
 
 # Tuning
 Start by priming the grenade by rotating the knob 180 degrees, loading it with the darts you normally use, then pulling the cap and seeing how long it takes to fire darts.
+
 https://github.com/user-attachments/assets/14583772-1a8c-47ac-a639-7fbca44a5e66
 
 ## Detonates too fast
