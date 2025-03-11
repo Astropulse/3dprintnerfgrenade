@@ -1,14 +1,12 @@
-Super WIP still
-
 # Hardware:
-6mm ID, 9mm OD slingshot elastic (or similar). I specifically used this: https://www.amazon.com/dp/B07DL6JJZ2
-Lube
+- 6mm ID, 9mm OD slingshot elastic (or similar). I specifically used this: https://www.amazon.com/dp/B07DL6JJZ2
+- Lube
 
 # Print settings:
-knob top pin - 5 walls, 20% infill
-ejector outside/middle, rod stopper top, rod core - 100% infill
-TPU skin: cap and cozy - 2 walls, 10% gyroid infill
-everything else - 3 walls, 15% infill
+- knob top pin - 5 walls, 20% infill
+- ejector outside/middle, rod stopper top, rod core - 100% infill
+- TPU skin: cap and cozy - 2 walls, 10% gyroid infill
+- everything else - 3 walls, 15% infill
 
 Some parts need supports
 
